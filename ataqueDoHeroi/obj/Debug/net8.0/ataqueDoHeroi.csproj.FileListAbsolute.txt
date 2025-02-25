@@ -1,0 +1,14 @@
+C:\Dev\Pessoal\DesafiosDIO\ataqueDoHeroi\ataqueDoHeroi\bin\Debug\net8.0\ataqueDoHeroi.exe
+C:\Dev\Pessoal\DesafiosDIO\ataqueDoHeroi\ataqueDoHeroi\bin\Debug\net8.0\ataqueDoHeroi.deps.json
+C:\Dev\Pessoal\DesafiosDIO\ataqueDoHeroi\ataqueDoHeroi\bin\Debug\net8.0\ataqueDoHeroi.runtimeconfig.json
+C:\Dev\Pessoal\DesafiosDIO\ataqueDoHeroi\ataqueDoHeroi\bin\Debug\net8.0\ataqueDoHeroi.dll
+C:\Dev\Pessoal\DesafiosDIO\ataqueDoHeroi\ataqueDoHeroi\bin\Debug\net8.0\ataqueDoHeroi.pdb
+C:\Dev\Pessoal\DesafiosDIO\ataqueDoHeroi\ataqueDoHeroi\obj\Debug\net8.0\ataqueDoHeroi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Pessoal\DesafiosDIO\ataqueDoHeroi\ataqueDoHeroi\obj\Debug\net8.0\ataqueDoHeroi.AssemblyInfoInputs.cache
+C:\Dev\Pessoal\DesafiosDIO\ataqueDoHeroi\ataqueDoHeroi\obj\Debug\net8.0\ataqueDoHeroi.AssemblyInfo.cs
+C:\Dev\Pessoal\DesafiosDIO\ataqueDoHeroi\ataqueDoHeroi\obj\Debug\net8.0\ataqueDoHeroi.csproj.CoreCompileInputs.cache
+C:\Dev\Pessoal\DesafiosDIO\ataqueDoHeroi\ataqueDoHeroi\obj\Debug\net8.0\ataqueDoHeroi.dll
+C:\Dev\Pessoal\DesafiosDIO\ataqueDoHeroi\ataqueDoHeroi\obj\Debug\net8.0\refint\ataqueDoHeroi.dll
+C:\Dev\Pessoal\DesafiosDIO\ataqueDoHeroi\ataqueDoHeroi\obj\Debug\net8.0\ataqueDoHeroi.pdb
+C:\Dev\Pessoal\DesafiosDIO\ataqueDoHeroi\ataqueDoHeroi\obj\Debug\net8.0\ataqueDoHeroi.genruntimeconfig.cache
+C:\Dev\Pessoal\DesafiosDIO\ataqueDoHeroi\ataqueDoHeroi\obj\Debug\net8.0\ref\ataqueDoHeroi.dll
